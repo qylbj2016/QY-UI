@@ -1,0 +1,34 @@
+{
+  "name": "qy-ui",
+  "version": "1.0.0",
+  "description": "一套不怎么使用的UI库",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qylbj2016/QY-UI.git"
+  },
+  "author": "xinke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qylbj2016/QY-UI/issues"
+  },
+  "homepage": "https://github.com/qylbj2016/QY-UI#readme",
+  "dependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.11.0",
+    "css-loader": "^4.2.1",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.3",
+    "vue-style-loader": "^4.1.2"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
